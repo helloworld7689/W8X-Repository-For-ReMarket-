@@ -2,7 +2,9 @@
   "repo_name": "WP8X Repository",
   "creator": "Oreo",
   "last_updated": "September 2026",
-  "supported_os": ["WP8.1"],
+  "supported_os": [
+    "WP8.1"
+  ],
   "apps": [
     {
       "id": "01",
@@ -18,5 +20,5 @@
       "version": "1.0.0.1",
       "download_url": "https://github.com/helloworld7689/W8X-Repository-For-ReMarket-/blob/Apps/Candy%20Crush%20Saga%20v1.0.0.1.xap"
     }
- ]
+  ]
 }
