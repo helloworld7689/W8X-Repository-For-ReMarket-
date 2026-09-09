@@ -2,17 +2,17 @@
 {
   "name": "W8X Repository",
   "description": "Windows Phone 8 apps",
-  "url": "http://yourdomain.com",
-  "maintainer": "Your Name",
+  "url": "https://github.com/helloworld7689/W8X-Repository-For-ReMarket-/blob/main/Apps.json",
+  "maintainer": "Oreo",
   "packages": [
     {
       "id": "1",
-      "name": "Your App Name",
-      "description": "A brief description of what your app does",
+      "name": "Cut the rope",
+      "description": "Help om nom to find he candy",
       "version": "1.0.0",
       "price": "free",
-      "section": "Utilities",
-      "author": "Your Name",
+      "section": "Games",
+      "author": "Labs",
       "depends": "wp7",
       "downloadurl": "http://yourdomain.com/apps/yourapp.xap",
       "icon": "http://yourdomain.com/icons/appicon.png"
@@ -20,17 +20,17 @@
   ],
   "sections": [
     {
-      "name": "Utilities",
-      "description": "Useful tools and applications"
+      "name": "Games",
+      "description": "games to play"
     }
   ],
   "metadata": {
-    "last_updated": "2024-03-14T00:00:00Z",
+    "last_updated": "2026-09-09",
     "package_count": 1,
     "supported_architectures": ["wp7"]
   }
 }
-domain type : http://yourdomain.com/repo.json 
+domain type :
 Apps / images : by link or put to domain
 
 # MeMarket repo example
