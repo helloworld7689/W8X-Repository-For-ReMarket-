@@ -1,0 +1,58 @@
+
+{
+  "name": "W8X Repository",
+  "description": "Windows Phone 8 apps",
+  "url": "http://yourdomain.com",
+  "maintainer": "Your Name",
+  "packages": [
+    {
+      "id": "1",
+      "name": "Your App Name",
+      "description": "A brief description of what your app does",
+      "version": "1.0.0",
+      "price": "free",
+      "section": "Utilities",
+      "author": "Your Name",
+      "depends": "wp7",
+      "downloadurl": "http://yourdomain.com/apps/yourapp.xap",
+      "icon": "http://yourdomain.com/icons/appicon.png"
+    }
+  ],
+  "sections": [
+    {
+      "name": "Utilities",
+      "description": "Useful tools and applications"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2024-03-14T00:00:00Z",
+    "package_count": 1,
+    "supported_architectures": ["wp7"]
+  }
+}
+domain type : http://yourdomain.com/repo.json 
+Apps / images : by link or put to domain
+
+# MeMarket repo example
+{
+  "repo_name": "Repo name",
+  "creator": "dev",
+  "last_updated": "date",
+  "supported_os": ["WP8.1", "W10M"],
+  "apps": [
+}
+    {
+      "id": "reopen.rewinstore",
+      "base_url": "https://raw.githubusercontent.com/OpenGlebsur/WP8-MEMarketRepo/main/apps/",
+      "os": "W10M",
+      "title": "ReWinStore",
+      "screenshots": [],
+      "author": "ReOpenGlebsur",
+      "description": "мини магазин для windows phone : )",
+      "icon_url": "ReWinStore.png",
+      "size": "1,52 KB",
+      "category": "store",
+      "version": "1.0.0.8",
+      "download_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/raw/refs/heads/main/apps/ReWinStoreMobile.appx"
+    }
+]
