@@ -1,58 +1,22 @@
-
 {
-  "name": "W8X Repository",
-  "description": "Windows Phone 8 apps",
-  "url": "https://github.com/helloworld7689/W8X-Repository-For-ReMarket-/blob/main/Apps.json",
-  "maintainer": "Oreo",
-  "packages": [
-    {
-      "id": "1",
-      "name": "Cut the rope",
-      "description": "Help om nom to find he candy",
-      "version": "1.0.0",
-      "price": "free",
-      "section": "Games",
-      "author": "Labs",
-      "depends": "wp7",
-      "downloadurl": "http://yourdomain.com/apps/yourapp.xap",
-      "icon": "http://yourdomain.com/icons/appicon.png"
-    }
-  ],
-  "sections": [
-    {
-      "name": "Games",
-      "description": "games to play"
-    }
-  ],
-  "metadata": {
-    "last_updated": "2026-09-09",
-    "package_count": 1,
-    "supported_architectures": ["wp7"]
-  }
-}
-domain type :
-Apps / images : by link or put to domain
-
-# MeMarket repo example
-{
-  "repo_name": "Repo name",
-  "creator": "dev",
-  "last_updated": "date",
-  "supported_os": ["WP8.1", "W10M"],
+  "repo_name": "WP8X Repository",
+  "creator": "Oreo",
+  "last_updated": "September 2026",
+  "supported_os": ["WP8.1],
   "apps": [
 }
     {
-      "id": "reopen.rewinstore",
+      "id": "01",
       "base_url": "https://raw.githubusercontent.com/OpenGlebsur/WP8-MEMarketRepo/main/apps/",
-      "os": "W10M",
-      "title": "ReWinStore",
+      "os": "WP8",
+      "title": "Cut the rope",
       "screenshots": [],
-      "author": "ReOpenGlebsur",
-      "description": "мини магазин для windows phone : )",
-      "icon_url": "ReWinStore.png",
-      "size": "1,52 KB",
-      "category": "store",
-      "version": "1.0.0.8",
+      "author": "ZeptoLabs",
+      "description": "help om nom for find he candy",
+      "icon_url": "",
+      "size": "???",
+      "category": "Games",
+      "version": "1.0.0.0",
       "download_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/raw/refs/heads/main/apps/ReWinStoreMobile.appx"
     }
 ]
