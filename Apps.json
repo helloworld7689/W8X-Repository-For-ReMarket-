@@ -4,7 +4,6 @@
   "last_updated": "September 2026",
   "supported_os": ["WP8.1"],
   "apps": [
-}
     {
       "id": "01",
       "base_url": "https://raw.githubusercontent.com/OpenGlebsur/WP8-MEMarketRepo/main/apps/",
@@ -19,4 +18,5 @@
       "version": "1.0.0.1",
       "download_url": "https://github.com/helloworld7689/W8X-Repository-For-ReMarket-/blob/main/Candy%20Crush%20Saga%20v1.0.0.1.xap"
     }
-]
+ ]
+}
