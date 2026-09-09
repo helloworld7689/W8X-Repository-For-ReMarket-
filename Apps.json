@@ -9,14 +9,14 @@
       "id": "01",
       "base_url": "https://raw.githubusercontent.com/OpenGlebsur/WP8-MEMarketRepo/main/apps/",
       "os": "WP8",
-      "title": "Cut the rope",
+      "title": "Candy Crush saga",
       "screenshots": [],
-      "author": "ZeptoLabs",
-      "description": "help om nom for find he candy",
+      "author": "King",
+      "description": "Explore a world of candy by beating the levels",
       "icon_url": "",
-      "size": "???",
+      "size": "16 MB",
       "category": "Games",
-      "version": "1.0.0.0",
-      "download_url": "https://github.com/OpenGlebsur/WP8-MEMarketRepo/raw/refs/heads/main/apps/ReWinStoreMobile.appx"
+      "version": "1.0.0.1",
+      "download_url": "https://github.com/helloworld7689/W8X-Repository-For-ReMarket-/blob/main/Candy%20Crush%20Saga%20v1.0.0.1.xap"
     }
 ]
